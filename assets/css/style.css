@@ -1,0 +1,22 @@
+#timeLeft {
+  
+    color: red;
+    padding: -10px
+    
+}
+
+.jumbotron {
+
+background-color:gray;
+color:blue
+
+}
+
+#questions-container {
+    color:black ;
+    background-color: gray
+}
+#doneButton {
+
+    color: blue
+}
